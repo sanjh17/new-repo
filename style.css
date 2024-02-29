@@ -7,3 +7,15 @@
     font-family: cursive ;
     font-size: 40px;
 }
+.img{
+    height: 200px; width: 200px;
+    margin-left: 650px;
+}
+.nav{
+    background-color: #350064; text-align: center;
+    height: 40px; width: 1535px;  margin: 10px -8px;
+}
+.nav_items{
+    text-decoration:none; color: white; padding: 0px 5dvb; 
+    font-family: cursive; font-size: 20px;
+}
