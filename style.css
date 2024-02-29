@@ -1,46 +1,79 @@
-.body{
+.body {
     background-color: #cbf0f8b8;
 }
-.heading{
+
+.heading {
     text-align: center;
     color: #49096e;
-    font-family: cursive ;
+    font-family: cursive;
     font-size: 40px;
 }
-.img{
-    height: 200px; width: 200px;
+
+.img {
+    height: 200px;
+    width: 200px;
     margin-left: 650px;
 }
-.nav{
-    background-color: #350064; text-align: center;
-    height: 40px; width: 1535px;  margin: 10px -8px;
+
+.nav {
+    background-color: #350064;
+    text-align: center;
+    height: 40px;
+    width: 1535px;
+    margin: 10px -8px;
 }
-.nav_items{
-    text-decoration:none; color: white; padding: 0px 5dvb; 
-    font-family: cursive; font-size: 20px;
+
+.nav_items {
+    text-decoration: none;
+    color: white;
+    padding: 0px 5dvb;
+    font-family: cursive;
+    font-size: 20px;
 }
-.title{
-    text-align: center; color: #350064; font-size: 25px;
+
+.title {
+    text-align: center;
+    color: #350064;
+    font-size: 25px;
     font-family: cursive;
 }
-.main-div{
-   display: flex;
+
+.main-div {
+    display: flex;
 }
-.card{
-    margin-left: 30px; height: 250px; width: 450px; background-color: #c5b4fdc3; padding: 10px;
+
+.card {
+    margin-left: 30px;
+    height: 250px;
+    width: 450px;
+    background-color: #c5b4fdc3;
+    padding: 10px;
 }
-.text{
-    text-align: center; font-family: cursive; font-size: 20px;
+
+.text {
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
 }
-.product_img{
-    height: 100px; width: 100px; margin-left: 150px;
+
+.product_img {
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
 }
-.btn{
-    margin-left: 180px; background-color: green; color: white;
-    font-family: cursive; border: none; padding: 10px; border-radius: 30px;
+
+.btn {
+    margin-left: 180px;
+    background-color: green;
+    color: white;
+    font-family: cursive;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
     font-size: 15px;
 }
-.card:hover{
+
+.card:hover {
     box-shadow: 0px 5px 10px 10px #aa90ffc3;
     transition: 0.4s;
 }
